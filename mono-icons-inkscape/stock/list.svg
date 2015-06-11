@@ -13,7 +13,7 @@
    height="128"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.91 r13725"
    version="1.0"
    sodipodi:docname="list.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -80,8 +80,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="52.59394"
-     inkscape:cy="87.659632"
+     inkscape:cx="32.59394"
+     inkscape:cy="27.659632"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -120,8 +120,8 @@
      transform="translate(0,112)">
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m 24,-88 0,8 80,0 0,-8 -80,0 z m 0,24 0,8 80,0 0,-8 -80,0 z m 0,24 0,8 80,0 0,-8 -80,0 z m 0,24 0,8 80,0 0,-8 -80,0 z"
-       id="rect2817"
-       sodipodi:nodetypes="cccccccccccccccccccc" />
+       d="M 24 24 L 24 32 L 32 32 L 32 24 L 24 24 z M 40 24 L 40 32 L 104 32 L 104 24 L 40 24 z M 24 48 L 24 56 L 32 56 L 32 48 L 24 48 z M 40 48 L 40 56 L 104 56 L 104 48 L 40 48 z M 24 72 L 24 80 L 32 80 L 32 72 L 24 72 z M 40 72 L 40 80 L 104 80 L 104 72 L 40 72 z M 24 96 L 24 104 L 32 104 L 32 96 L 24 96 z M 40 96 L 40 104 L 104 104 L 104 96 L 40 96 z "
+       transform="translate(0,-112)"
+       id="rect2817" />
   </g>
 </svg>
