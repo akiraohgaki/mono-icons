@@ -1,4 +1,4 @@
-Mono Icons
+# Mono Icons
 
 A monochrome icons.
 
