@@ -1,14 +1,12 @@
 #!/bin/bash
 
 # Batch convert from Inkscape SVG to PNG
-
-# Requirements
 #
+# Requirements:
 # Inkscape and ImageMagick
-
-# Usage
 #
-# sh batch-convert.sh
+# Usage:
+# sh convert.sh
 
 # Convert options
 source_icons_dir='./mono-icons-inkscape'
