@@ -4,6 +4,6 @@
 
 A monochrome icons set.
 
-Copyright: Akira Ohgaki
+Copyright: 2014, Akira Ohgaki
 
 License: CC-BY-4+
